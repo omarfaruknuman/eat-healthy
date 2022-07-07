@@ -44,13 +44,14 @@ h2{
 .center{
     text-align: center;
 }
+
 .my-recipies{
     box-shadow: 10px 10px 40px gray;
-    width: 45%;
+    width: 40%;
     border-radius: 10px;
-    margin-left: 1%;
-    margin-right: 1%;
-    padding: 30px;
+    margin-left: 20px;
+    margin-right: 20px;
+    padding: 20px;
 }
 .subscriber{
     margin: 10px;
@@ -61,7 +62,7 @@ h2{
 .sub{
     width: 33%;
     text-align: center;
-    border-radius: 5px;
+    border-radius: 10px;
 }
 
 footer span{
